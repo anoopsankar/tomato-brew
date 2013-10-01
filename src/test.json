@@ -1,0 +1,38 @@
+{
+ "id": "771193517",
+ "title": "The Wolverine",
+ "year": 2013,
+ "mpaa_rating": "PG-13",
+ "runtime": 136,
+ "critics_consensus": "Although its final act succumbs to the usual cartoonish antics, The Wolverine is one superhero movie that manages to stay true to the comics while keeping casual viewers entertained.",
+ "release_dates": {
+ "theater": "2013-07-25"
+ },
+ "ratings": {
+ "critics_rating": "Fresh",
+ "critics_score": 67,
+ "audience_rating": "Upright",
+ "audience_score": 76
+ },
+ "synopsis": "Hugh Jackman returns as Wolverine in this sequel to the member of the X-Men's first solo outing. Mark Bomback and The Usual Suspects' Christopher McQuarrie penned the script, which takes its inspiration from the Chris Claremont/Frank Miller Marvel miniseries from the 1980s dealing with the character's adventures in Japan as he fights ninjas in the ceremonial garb of the samurai. Knight and Day's James Mangold directs. ~ Jeremy Wheeler, Rovi",
+ "posters": {
+ "thumbnail": "http://content6.flixster.com/movie/11/17/25/11172568_mob.jpg",
+ "profile": "http://content6.flixster.com/movie/11/17/25/11172568_pro.jpg",
+ "detailed": "http://content6.flixster.com/movie/11/17/25/11172568_det.jpg",
+ "original": "http://content6.flixster.com/movie/11/17/25/11172568_ori.jpg"
+ },
+ "abridged_cast": [
+
+ ],
+ "alternate_ids": {
+ "imdb": "1430132"
+ },
+ "links": {
+ "self": "http://api.rottentomatoes.com/api/public/v1.0/movies/771193517.json",
+ "alternate": "http://www.rottentomatoes.com/m/the_wolverine_2012/",
+ "cast": "http://api.rottentomatoes.com/api/public/v1.0/movies/771193517/cast.json",
+ "clips": "http://api.rottentomatoes.com/api/public/v1.0/movies/771193517/clips.json",
+ "reviews": "http://api.rottentomatoes.com/api/public/v1.0/movies/771193517/reviews.json",
+ "similar": "http://api.rottentomatoes.com/api/public/v1.0/movies/771193517/similar.json"
+ }
+ }
