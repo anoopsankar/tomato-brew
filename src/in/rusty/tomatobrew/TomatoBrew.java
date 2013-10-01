@@ -53,7 +53,7 @@ public class TomatoBrew {
 
     public static void main(String[] args) throws TomatoException {
        // Example
-       Movie[] movies = new TomatoBrew("vh7emb6rnckmca2gaevmbxx8").search("jigkdfdkdfd");
+       Movie[] movies = new TomatoBrew("YOUR_API_KEY").search("When Harry Met Sally");
        
     }
     
